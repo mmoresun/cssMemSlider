@@ -113,22 +113,22 @@ h4 {
 
 #slider1:checked ~ .slider1 {
     margin-left: 0;
-    /* transition: 500ms ease; */
+    transition: 500ms ease;
 }
 
 #slider2:checked ~ .slider1 {
     margin-left: -25%;
-    /* transition: 500ms ease; */
+    transition: 500ms ease;
 
 }
 
 #slider3:checked ~ .slider1 {
     margin-left: -50%;
-    /* transition: 500ms ease; */
+    transition: 500ms ease;
 
 }
 
 #slider4:checked ~ .slider1 {
     margin-left: -75%;    
-    /* transition: 500ms ease; */
+    transition: 500ms ease;
 }
